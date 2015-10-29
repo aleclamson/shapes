@@ -1,5 +1,4 @@
 require "gosu"
-# require_relative "square"
 require_relative 'rectangle'
 # require_relative "triangle"
 
